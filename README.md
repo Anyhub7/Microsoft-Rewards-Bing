@@ -1,5 +1,6 @@
 # Microsoft-Rewards-Bing
 模拟人类真实浏览，自动获取积分，从未被封禁......
+运行环境要求：windows系统、chrome浏览器（暂不支持其它浏览器）
 
 ## 软件运行截图：
 ![9811e257a4e4ef24f5a599c1f75f626e](https://github.com/user-attachments/assets/5a821346-5057-484e-a0e0-c1732bdb7c05)
