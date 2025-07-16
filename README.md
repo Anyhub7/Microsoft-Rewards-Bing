@@ -1,4 +1,4 @@
-# Microsoft-Rewards-Bing
+# Microsoft-Rewards-Bing (已更新至 v1.4.3)
 模拟人类真实浏览，自动获取积分，从未被封禁......
 
 运行环境要求：windows系统、chrome浏览器（暂不支持其它浏览器）
